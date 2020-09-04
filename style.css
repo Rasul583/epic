@@ -7,6 +7,12 @@ body {
     text-align: center;
   }
   
+  h2 {
+    color: rgb(155, 145, 10);
+    font-size: 50px;
+    text-align: center;
+    }
+
   p {
     font-family: verdana;
     font-size: 20px;
